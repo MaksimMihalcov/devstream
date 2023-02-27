@@ -1,0 +1,12 @@
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\bin\Debug\net6.0\Services.deps.json
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\bin\Debug\net6.0\Services.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\bin\Debug\net6.0\Services.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\refint\Services.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\Services.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Services\obj\Debug\net6.0\ref\Services.dll

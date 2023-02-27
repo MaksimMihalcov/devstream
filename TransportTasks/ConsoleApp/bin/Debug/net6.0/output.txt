@@ -1,0 +1,4 @@
+Year: 1994, Weight: 3120, Model: Airplane1
+Year: 2001, Weight: 50, Model: Bicycle1
+Year: 1996, Weight: 3000, Model: Car1, MaxSpeed: 420
+Year: 2001, Weight: 200000, Model: Plane1, MaxSpeed: 930

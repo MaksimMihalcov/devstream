@@ -1,0 +1,12 @@
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\bin\Debug\net6.0\Providers.deps.json
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\bin\Debug\net6.0\Providers.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\bin\Debug\net6.0\Providers.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.csproj.AssemblyReference.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.AssemblyInfoInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.AssemblyInfo.cs
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.csproj.CoreCompileInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\refint\Providers.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\Providers.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Providers\obj\Debug\net6.0\ref\Providers.dll

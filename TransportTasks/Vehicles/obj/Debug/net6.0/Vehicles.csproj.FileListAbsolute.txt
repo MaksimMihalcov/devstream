@@ -1,0 +1,12 @@
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\bin\Debug\net6.0\Vehicles.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+D:\ATHIS.PROJECT\Devstream\Devstream_Tasks\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
