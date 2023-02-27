@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ATHIS.PROJECT\\Devstream\\ProblemSolving\\ProblemSolving\\ProblemSolving.csproj",
+      "projectUniqueName": "D:\\ATHIS.PROJECT\\DevstreamTask\\ProblemSolving\\ProblemSolving\\ProblemSolving.csproj",
       "projectName": "ProblemSolving",
-      "projectPath": "D:\\ATHIS.PROJECT\\Devstream\\ProblemSolving\\ProblemSolving\\ProblemSolving.csproj",
+      "projectPath": "D:\\ATHIS.PROJECT\\DevstreamTask\\ProblemSolving\\ProblemSolving\\ProblemSolving.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "D:\\ATHIS.PROJECT\\Devstream\\ProblemSolving\\ProblemSolving\\obj\\",
+      "outputPath": "D:\\ATHIS.PROJECT\\DevstreamTask\\ProblemSolving\\ProblemSolving\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
